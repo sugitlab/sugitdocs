@@ -2,7 +2,7 @@
 
 **Software engineer working in Kyoto, Japan.**
 
-![sugit_icon](./_media/icon.png ":size=100x100")
+<img src="./_media/icon.png" height=100 width=100 />
 
 [![Twitter JA](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Follow&message=%20%40sugitlab)](https://twitter.com/sugitlab)
 &nbsp;
