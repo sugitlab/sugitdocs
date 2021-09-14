@@ -36,6 +36,6 @@
   - Mathematical Optimization
     - Development of new algorithms for basic, important mathematical programming problems
 - :running: Software Engineer @Kyoto.
-  - Do you want to know the company name? Please contact to me via [twitter DM](https://twitter.com/sugilab)
+  - Do you want to know the company name? Please contact to me via [twitter DM](https://twitter.com/sugitlab)
 - :running: Engineering Hobby Team, [Kyo-waku](https://kyo-waku.com/)
 - :running: Programming School Advisor, [TechTrain](https://techbowl.co.jp/techtrain/mentors/116)
