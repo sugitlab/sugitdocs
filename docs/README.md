@@ -1,3 +1,3 @@
 # sugitdocs
 
-docsify doc site
+docsify doc site :100:
