@@ -24,7 +24,8 @@ no docs
 
 ## Supabase
 
-no docs
+- [Supabase 導入](./supabase_intro.md)
+- [Flutter で Supabase に入門する](./supabase_dart_trial.md)
 
 ## C++, C#
 
