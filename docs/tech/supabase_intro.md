@@ -11,8 +11,8 @@
 - Postgres を使用。スケーラブルなRDB。
 - WebUIが充実しているのでSQLに不慣れでも始めやすい
 - RDBのリレーションも確認しやすい
-- WebUIのSQLエディタがある。作成したクエリはWebで保存できる。再利用可能。
-- 自前の [Realtime Server](https://github.com/supabase/realtime) を使ってリアルタイム機能を提供している
+- WebUIのSQLエディタがある。作成したクエリはWebで保存できる。再利用可能
+- 自前の [Realtime Server](https://github.com/supabase/realtime) を使ってリアルタイム機能を提供している
 - 全てにおいて Postgres。ユーザー情報も同様。
 - postgres 用の [extension](https://supabase.io/docs/guides/database/extensions) がつかえる　
 
