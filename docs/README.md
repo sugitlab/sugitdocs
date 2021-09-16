@@ -8,6 +8,8 @@
 &nbsp;
 [![Twitter EN](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Follow&message=%20%40sugitdev)](https://twitter.com/sugitdev)
 
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=Follow&message=%20%40sugitlab)](https://github.com/sugitlab)
+
 ## Recent Activity
 
 - Write **Flutter** tips on [Zenn](https://zenn.dev/sugitlab)
