@@ -44,7 +44,7 @@ void main() {
 
 - Auth結果のテーブルを作る
   - User Management Starter の SQL 使うと楽なので使う
-    ![user_management_starter](https://github.dev/sugitlab/sugitdocs)
+    ![user_management_starter](../_media/user_management_starter.png)
   - スターターのクエリ文は実行前に閲覧・編集できるので過不足あればちょちょっと変えればOK。デフォルトは以下のテーブル (プラス、ルールがもろもろ)
     ```sql
     create table profiles (
@@ -84,6 +84,6 @@ void supabaseSignUp(String email, String password) async {
 
 これだけはなんとか分離したい
 
-
+> Issue を立てました [Error response for Sign-up with email & password should include error type (or code) to handle the reason of error, in client side. #217](https://github.com/supabase/gotrue/issues/217)
 
 To be continued....
